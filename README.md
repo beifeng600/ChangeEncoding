@@ -1,5 +1,5 @@
 # ChangeEncoding
- change file encoding in batches, now support UTF-8,GBK,UTF-16LE,UTF-16BE
+ change file encoding in batches, now support UTF-8,GBK,UTF-16LE,UTF-16BE, Java
 
 java -Dfile.encoding=utf-8 -mx1000m -jar ChangeEncoding-1.0.jar inputPath outPath in_encoding out_encoding
 
